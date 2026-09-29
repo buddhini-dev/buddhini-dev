@@ -9,7 +9,7 @@ Data Science Undergraduate | AI/ML, Data Engineering & Software Engineering
 - 🎓 **Education:** BSc (Hons) in Data Science at SLIIT
 - 🎯 **Target Roles:** Data Analyst | Data Scientist | AI/ML Engineer | Software / Backend Engineer Intern
 - 🚀 **Core Expertise:** Predictive Modeling, Data Analysis & Visualization, Deep Learning, ETL Pipelines & Full-Stack Application Development
-- 💻 **Featured Project:** [CareerIQ](https://github.com/buddhini-dev) - AI-Powered Career Intelligence Platform with Automated Resume Parsing, Skill Extraction, and Salary Analytics
+- 💻 **Featured Project:** [CareerIQ](https://github.com/buddhini-dev/career-intelligence-platform) - AI-Powered Career Intelligence Platform with Automated Resume Parsing, Skill Extraction, and Salary Analytics
 - 🏆 **Achievements:** Finalist at IESL RoboGames 2025/26 | AI/ML Engineer Certification (SLIIT)
 - 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/buddhini-jayakody) | [Email](mailto:jayakodybuddhini@gmail.com)
 
@@ -47,5 +47,8 @@ Data Science Undergraduate | AI/ML, Data Engineering & Software Engineering
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=buddhini-dev&show_icons=true&theme=dark" alt="Buddhini's GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhini-dev&layout=compact&theme=dark" alt="Top Languages" />
 </p>
