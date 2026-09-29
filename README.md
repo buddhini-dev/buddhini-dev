@@ -40,15 +40,3 @@ Data Science Undergraduate | AI/ML, Data Engineering & Software Engineering
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=postman&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buddhini-dev&show_icons=true&theme=dark" alt="Buddhini's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhini-dev&layout=compact&theme=dark" alt="Top Languages" />
-</p>
